@@ -1,0 +1,146 @@
+--mr.click hub
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+--windows
+local Window = Library.CreateLib("mrlink2k", "BloodTheme")
+
+--tabs
+local Tab = Window:NewTab("script")
+
+Section:NewLabel("scripts")
+
+
+--começo
+
+Section:NewButton("Buttonbox", "infonitreal", function()
+    print("mr.link2k")
+end)
+
+Section:NewToggle("velocidade", "ToggleInfo", function(state)
+    if state then
+        print("velocidade on")
+    else
+        print("velocidade off"")
+    end
+end)
+
+--sliders
+Section:NewSlider("SliderText", "SliderInfo", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)--mr.click hub
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+--windows
+local Window = Library.CreateLib("mrlink2k", "BloodTheme")
+
+--tabs
+local Tab = Window:NewTab("script")
+
+Section:NewLabel("scripts")
+
+
+--começo
+
+Section:NewButton("Buttonbox", "infonitreal", function()
+    print("mr.link2k")
+end)
+
+Section:NewToggle("velocidade", "ToggleInfo", function(state)
+    if state then
+        print("velocidade on")
+    else
+        print("velocidade off"")
+    end
+end)
+
+--sliders
+Section:NewSlider("SliderText", "SliderInfo", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)--mr.click hub
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+--windows
+local Window = Library.CreateLib("mrlink2k", "BloodTheme")
+
+--tabs
+local Tab = Window:NewTab("script")
+
+Section:NewLabel("scripts")
+
+
+--começo
+
+Section:NewButton("Buttonbox", "infonitreal", function()
+    print("mr.link2k")
+end)
+
+Section:NewToggle("velocidade", "ToggleInfo", function(state)
+    if state then
+        print("velocidade on")
+    else
+        print("velocidade off"")
+    end
+end)
+
+--sliders
+Section:NewSlider("SliderText", "SliderInfo", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)--mr.click hub
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+--windows
+local Window = Library.CreateLib("mrlink2k", "BloodTheme")
+
+--tabs
+local Tab = Window:NewTab("script")
+
+Section:NewLabel("scripts")
+
+
+--começo
+
+Section:NewButton("Buttonbox", "infonitreal", function()
+    print("mr.link2k")
+end)
+
+Section:NewToggle("velocidade", "ToggleInfo", function(state)
+    if state then
+        print("velocidade on")
+    else
+        print("velocidade off"")
+    end
+end)
+
+--sliders
+Section:NewSlider("SliderText", "SliderInfo", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)--mr.click hub
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+--windows
+local Window = Library.CreateLib("mrlink2k", "BloodTheme")
+
+--tabs
+local Tab = Window:NewTab("script")
+
+Section:NewLabel("scripts")
+
+
+--começo
+
+Section:NewButton("Buttonbox", "infonitreal", function()
+    print("mr.link2k")
+end)
+
+Section:NewToggle("velocidade", "ToggleInfo", function(state)
+    if state then
+        print("velocidade on")
+    else
+        print("velocidade off"")
+    end
+end)
+
+--sliders
+Section:NewSlider("SliderText", "SliderInfo", 500, 0, function(s) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)
